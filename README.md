@@ -1,8 +1,6 @@
 <h1 align="center">
   Hi there 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-  //gif
-
 </p>
 
 </h1>
@@ -68,11 +66,10 @@
 
 ## 📬 Let’s Connect
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niyat-n-3ab4b73a2)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyat-n-3ab4b73a2)
 
 ---
 
 ## ⚡ Fun Fact
 
 I enjoy exploring **Web3**, building **Secure Smart Contracts**,  and dissecting **Real-World hacks to understand how protocols fail** 🔍🔥
-
