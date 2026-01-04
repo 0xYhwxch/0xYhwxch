@@ -13,13 +13,13 @@
 
 ## 🧠 About Me
 
-🧪 **Aspiring Web3 Security-Focused Developer Building and testing Ethereum smart contracts**  
+🧪 **Aspiring Web3 Security-Focused Developer Building and testing Ethereum smart contracts**.  
 
-  I enjoy diving deep into **EVM internals**, uncovering subtle vulnerabilities, and understanding how exploits really happen.
+   I enjoy diving deep into **EVM internals**, uncovering subtle vulnerabilities, and understanding how exploits really happen.
 
-  Currently sharpening my skills in **Rust 🦀** to master **low-level, memory-safe blockchain development** and expand into **next-gen blockchain ecosystems**.
+   Currently sharpening my skills in **Rust 🦀** to master **low-level, memory-safe blockchain development** and expand into **next-gen blockchain ecosystems**.
 
-  🐛 I hunt bugs before they hunt users.
+   🐛 I hunt bugs before they hunt users.
 
 ---
 
