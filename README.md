@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px">
 </h1>
 
-<h3 align="center"> 🛡️ Aspiring Smart Contract Security Engineer | 💻 CS Graduate | 🔍 Blockchain Security Enthusiast </h3>
+<h3 align="center"> 🛡️ Aspiring Smart Contract Engineer | 💻 CS Graduate | 🔍 Blockchain Security Enthusiast </h3>
 
 ---
 
@@ -13,10 +13,9 @@
 
 I enjoy diving deep into **EVM internals**, uncovering subtle vulnerabilities, and understanding how exploits really happen.
 
-Currently diving deep into **Rust 🦀** to master **memory-safe, low-level blockchain development**.  
+Currently diving deep into **advanced Foundry, smart contract auditing, and EVM internals including Assembly, Yul, Huff, and Formal Verification** ,while also started learning **Rust 🦀** to master **memory-safe**.  
 
-
-🐛 **Bug hunter mindset** — prevention > patching.
+🐛 **Bug hunter mindset**.
 
 ---
 
