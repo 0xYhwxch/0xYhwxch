@@ -22,15 +22,16 @@ Currently diving deep into **advanced Foundry, smart contract auditing, and EVM 
 ## 🤖 Tech Stack ### 
 
 ### 🔗 Programming Languages
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-0b0033?style=for-the-badge&logo=rust&logoColor=8a7dff)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=00ffff)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=ff0080)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=00ffea)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffd43b)
 
 ### 🌐 Web & Frontend 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🛠 Frameworks & Libraries 
-![Foundry](https://img.shields.io/badge/Foundry-7C3AED?style=for-the-badge&logoColor=white) ![Ethers.js](https://img.shields.io/badge/Ethers.js-4D3F6F?style=for-the-badge&logo=ethers&logoColor=white) 
+![Foundry](https://img.shields.io/badge/Foundry-7C3AED?style=for-the-badge&logoColor=white) 
 
 ### 🧰 Tools & Platforms 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
